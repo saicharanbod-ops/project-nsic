@@ -23,7 +23,7 @@ A simple and intuitive Streamlit web application that transforms your images int
 
 1. **Clone or download the project**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/saicharanbod-ops/project-nsic/
    cd project-nsic
    ```
 
